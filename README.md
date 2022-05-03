@@ -1,4 +1,4 @@
-- 👋 it's Bridge
+- 👋 Bridge here
 - making games is kinda fun ngl
 - 📫 catch me @ bfranhooks@gmail.com
 
