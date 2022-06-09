@@ -1,6 +1,6 @@
 - 👋 Bridge here
-- making games is kinda fun ngl
-- 📫 catch me @ bfranhooks@gmail.com
+- I program stuff
+- 📫 reach out to me @ bfranhooks@gmail.com
 
 <!---
 BridgetHooks116/BridgetHooks116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
