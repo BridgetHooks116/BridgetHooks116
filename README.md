@@ -1,4 +1,4 @@
-- 👋 Bridge here
+- 👋 Bridget here
 - I program stuff
 - 📫 reach out to me @ bfranhooks@gmail.com
 
